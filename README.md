@@ -12,6 +12,27 @@ The following images are the screenshots of my practice designs.
 
 ![bobcat](https://github.com/Hariharan123S/Practice-of-Solidworks-Design/assets/148625245/3e325107-4aee-4f43-9c75-e5df52eb1489)
 
+![Cannon](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/6fa12689-09a2-4607-8cbb-7fb7db27f091)
+
+![tyre](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/8b36058f-5bd9-4811-a5d7-d254f0b4e9f4)
+
+![pot](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/5c82f0d7-5538-4764-b50d-a29ec1bb57b6)
+
+![chair](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/62acbdd5-fb3e-4da1-b49c-4e687e082a2d)
+
+![cad6](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/2176e4c2-ae87-4f8a-a8dc-ca4097fa6013)
+
+![cad5](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/03bc29b4-a95e-4104-8bf1-7477fb759da0)
+
+![cad4](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/936387d8-1588-42f8-843e-f811864bd33e)
+
+![cad3](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/56263941-64a0-4e72-bd4c-11dc46cb6de6)
+
+![cad2](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/2624a57d-0115-4faf-b4e6-61f38e432705)
+
+![cad1](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/36bc0eae-50fa-4723-9086-a0e878d6baf1)
+
+
  # Practice of AutoCAD Drawings
  The following images are the screenshot of autoCAD drawings during my practice session.
  
