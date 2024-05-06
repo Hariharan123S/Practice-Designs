@@ -36,6 +36,8 @@ The following images are the screenshots of my practice designs.
 
 ![1](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/1c81b88f-a1c4-46b9-957f-49dcc3e8dc17)
 
+![3](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/2ad908b0-3436-47d2-8175-6783cc2a9ddc)
+
 
 
  # Practice of AutoCAD Drawings
