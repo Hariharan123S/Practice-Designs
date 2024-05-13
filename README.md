@@ -1,6 +1,7 @@
 # Practice of Solidworks Design
 This repository showcases a SolidWorks design I've created, guided by tutorials and insights from YouTube videos.
 The following images are the screenshots of my practice designs.
+![engine](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/893ec9e0-837a-41a6-b524-dd9dae1ba6f3)
 
 ![BOX](https://github.com/Hariharan123S/Practice-of-Solidworks-Design/assets/148625245/9ecb4472-f97a-4f9d-a7a6-56aa3544c520)
 
