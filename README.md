@@ -40,7 +40,9 @@ The following images are the screenshots of my practice designs.
 
 ![3](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/2ad908b0-3436-47d2-8175-6783cc2a9ddc)
 
+# Bill of Material
 
+![Engine](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/1f53fa86-c8c6-4869-af2c-39fdb3a9878f)
 
  # Practice of AutoCAD Drawings
  The following images are the screenshot of autoCAD drawings during my practice session.
