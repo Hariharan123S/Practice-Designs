@@ -58,6 +58,10 @@ The following images are the screenshots of my practice designs.
  ![4](https://github.com/Hariharan123S/Practice-of-Solidworks-Design/assets/148625245/a60bc084-5365-4590-9920-32d7022e88a5)
  
  ![5](https://github.com/Hariharan123S/Practice-of-Solidworks-Design/assets/148625245/c6a4f002-c517-4919-b422-7154cd5e55f7)
+ 
+![23](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/5dd06560-615c-4c7d-b548-e0e6c831057e)
+
+![25](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/9763bd98-113c-41ee-9b91-bb7371bf7b78)
 
  # Analysis using Ansys Software
  The following images are my work done during my academics practicals.
