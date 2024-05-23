@@ -42,6 +42,10 @@ The following images are the screenshots of my practice designs.
 
 ![3](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/2ad908b0-3436-47d2-8175-6783cc2a9ddc)
 
+# Drawing sheet
+
+![cad5](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/ea1f983d-8525-40f6-bfc7-c2b972726143)
+
 # Bill of Material
 
 ![Engine](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/1f53fa86-c8c6-4869-af2c-39fdb3a9878f)
