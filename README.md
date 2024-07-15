@@ -14,6 +14,8 @@ The following images are the screenshots of my practice designs.
 
 ![bobcat](https://github.com/Hariharan123S/Practice-of-Solidworks-Design/assets/148625245/3e325107-4aee-4f43-9c75-e5df52eb1489)
 
+![iso](https://github.com/user-attachments/assets/ec6124d8-33bd-41b2-ae08-d000dcfbdc1d)
+
 ![Cannon](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/6fa12689-09a2-4607-8cbb-7fb7db27f091)
 
 ![tyre](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/8b36058f-5bd9-4811-a5d7-d254f0b4e9f4)
