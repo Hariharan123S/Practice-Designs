@@ -16,6 +16,8 @@ The following images are the screenshots of my practice designs.
 
 ![iso](https://github.com/user-attachments/assets/ec6124d8-33bd-41b2-ae08-d000dcfbdc1d)
 
+![iso](https://github.com/user-attachments/assets/81a045ab-42db-4127-b544-ff8f16955fd4)
+
 ![Cannon](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/6fa12689-09a2-4607-8cbb-7fb7db27f091)
 
 ![tyre](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/8b36058f-5bd9-4811-a5d7-d254f0b4e9f4)
