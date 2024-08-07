@@ -54,6 +54,10 @@ The following images are the screenshots of my practice designs.
 
 ![3](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/2ad908b0-3436-47d2-8175-6783cc2a9ddc)
 
+![6](https://github.com/user-attachments/assets/5a13d291-7b7d-4347-8bcc-7c4a04cbfc0b)
+
+![5](https://github.com/user-attachments/assets/1dcf64de-680d-4b57-9f8b-394d6a7baf9b)
+
 ![rack](https://github.com/user-attachments/assets/a17bfb7e-5cf7-4992-89f2-08cc722d196a)
 
 # Drawing sheet
