@@ -8,6 +8,8 @@ The following images are the screenshots of my practice designs.
 
 ![SCREW](https://github.com/Hariharan123S/Practice-of-Solidworks-Design/assets/148625245/11d1d68d-5e80-4433-8536-d5288111ddd8)
 
+![1](https://github.com/user-attachments/assets/e4811bbd-a04d-4bd8-8f3c-41e0762ae80e)
+
 ![Toy](https://github.com/Hariharan123S/Practice-of-Solidworks-Design/assets/148625245/9f1c7941-b5df-416e-8730-1c5c69d347af)
 
 ![engine](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/893ec9e0-837a-41a6-b524-dd9dae1ba6f3)
