@@ -46,6 +46,10 @@ The following images are the screenshots of my practice designs.
 
 ![7](https://github.com/user-attachments/assets/d8c1b469-dea0-4273-ab10-d6e1dc30ded7)
 
+![4](https://github.com/user-attachments/assets/d36ae062-9e6f-4c99-9abb-033f84e206a5)
+
+![5](https://github.com/user-attachments/assets/b51100ac-a3c3-49f5-a054-e760ea7ab1e2)
+
 # Sheet Metal Design
 
 ![2](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/ef2d3962-8a6a-4060-a98c-51e6706046a3)
