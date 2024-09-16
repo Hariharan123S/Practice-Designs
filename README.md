@@ -93,6 +93,16 @@ The following images are the screenshots of my practice designs.
 
 ![25](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/9763bd98-113c-41ee-9b91-bb7371bf7b78)
 
+![6](https://github.com/user-attachments/assets/2d4008fe-68e0-435b-b5c5-797fa2c8a26d)
+
+![5](https://github.com/user-attachments/assets/c5abfc8d-2fbc-4e7e-8953-eadd4b3c6820)
+
+![4](https://github.com/user-attachments/assets/f90b1aac-ed19-47e7-bd35-0e5a91376270)
+
+![2](https://github.com/user-attachments/assets/1d46aae1-0400-401a-badb-587ce553edc7)
+
+![1](https://github.com/user-attachments/assets/61a8bd98-d0be-4696-bcec-ce888c75e42e)
+
  # Analysis using Ansys Software
  The following images are my work done during my academics practicals.
  
