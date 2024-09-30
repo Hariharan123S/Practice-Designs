@@ -22,6 +22,8 @@ The following images are the screenshots of my practice designs.
 
 ![bench](https://github.com/user-attachments/assets/5e8ea0ca-4ebe-4a25-9a3b-fa8f5cf89a9e)
 
+![Capture](https://github.com/user-attachments/assets/4c6e88c2-d373-4a7c-9b9e-999a4dca4791)
+
 ![pipe](https://github.com/user-attachments/assets/d2c12697-35b1-4778-83a5-387b6b81269c)
 
 ![Cannon](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/6fa12689-09a2-4607-8cbb-7fb7db27f091)
