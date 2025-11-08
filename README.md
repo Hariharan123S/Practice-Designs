@@ -78,6 +78,37 @@ The following images are the screenshots of my practice designs.
 
 ![Engine](https://github.com/Hariharan123S/Practice-Designs/assets/148625245/1f53fa86-c8c6-4869-af2c-39fdb3a9878f)
 
+ # Practice of Autodesk Inventor Design
+![6](https://github.com/user-attachments/assets/8964f3ee-6c02-4d8c-b35d-267ae1cacaf2)
+
+![5](https://github.com/user-attachments/assets/662cdf5b-060c-467f-9fae-4eb43b2db2e2)
+
+![4](https://github.com/user-attachments/assets/6f62ed99-5066-4134-a198-73e87f063c56)
+
+![3](https://github.com/user-attachments/assets/fed70275-b91a-4c7c-ab47-1f56c143cbb2)
+
+![2](https://github.com/user-attachments/assets/ca8dea72-1434-4d76-9392-8b91fdb50fc6)
+
+![1](https://github.com/user-attachments/assets/97e881a1-4a2e-4e5c-a5c4-a86b30729c11)
+
+![7](https://github.com/user-attachments/assets/271168fa-e556-4bf9-b03b-267d15212352)
+
+![Capture](https://github.com/user-attachments/assets/1e3a43dc-6e69-42f2-bcbf-9b3f9096e353)
+
+# Sheet Metal Design
+
+![6](https://github.com/user-attachments/assets/9198307c-9b1a-400c-b9cf-91897f2446d4)
+
+![5](https://github.com/user-attachments/assets/1568e869-a69e-407d-bfba-292c20c5f294)
+
+![4](https://github.com/user-attachments/assets/7992d4d0-3b95-45b9-b4c6-729f213ccdd1)
+
+![3](https://github.com/user-attachments/assets/cdc597cf-c8ba-4de8-841e-1dfe58281a69)
+
+![2](https://github.com/user-attachments/assets/9ca86e73-9c40-4be0-9a4d-7b0213c3eb0c)
+
+![1](https://github.com/user-attachments/assets/40104c88-b3e2-4968-ad69-5be4f7770d6c)
+
  # Practice of AutoCAD Drawings
  The following images are the screenshot of autoCAD drawings during my practice session.
  
